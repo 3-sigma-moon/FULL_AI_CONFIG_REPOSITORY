@@ -1,5 +1,5 @@
 tracer:
-  property: "TEST MESSAGING SERVICE CONFIG"
+  property: "CONFIGURATION FILES SHOLB BE AT TOP OF THE REPOSITORY"
 ################################# STOMP #############################################################
 stomp:
   websocket:
