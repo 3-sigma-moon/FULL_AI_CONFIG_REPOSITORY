@@ -1,5 +1,5 @@
 tracer:
-  property: "CONFIGURATION FILES SHOLB BE AT TOP OF THE REPOSITORY"
+  property: "CONFIGURATION FILES SHOLB BE AT TOP OF THE REPOSITORY ?"
 ################################# STOMP #############################################################
 stomp:
   websocket:
